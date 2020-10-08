@@ -12,3 +12,39 @@ ul {
     margin: 0;
     padding: 0;
 }
+
+header {
+    height: 80px;
+    width: 100%;
+    position: fixed;
+    display: flex;
+    background-color: black;
+}
+
+header img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    padding: 15px 15px;
+}
+
+header h1 {
+    text-align: center;
+    color: white;
+    margin-left: 38%;
+}
+
+ul {
+    margin: 23px;
+    position: absolute;
+    right: 10px;
+}
+
+header li{
+    display: inline;
+}
+
+header li a{
+    color: white;
+}
+
