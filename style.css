@@ -48,3 +48,33 @@ header li a{
     color: white;
 }
 
+main {
+    padding-top: 30px;
+}
+
+.description {
+    background-color: gainsboro;
+    height: 650px;
+}
+
+.description img{
+    float: left;
+    width: 350px;
+    padding: 60px 30px 30px 100px;
+}
+
+h2 {
+    padding-top: 90px;
+    font-weight: bold;
+}
+
+.description-p1{
+    padding-right: 100px;
+}
+
+.description-p2 {
+    clear: both;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
