@@ -54,12 +54,12 @@ main {
 
 .description {
     background-color: gainsboro;
-    height: 650px;
+    height: 750px;
 }
 
 .description img{
     float: left;
-    width: 350px;
+    height: 500px;
     padding: 60px 30px 30px 100px;
 }
 
@@ -76,5 +76,16 @@ h2 {
     clear: both;
     padding-left: 100px;
     padding-right: 100px;
+}
+
+.relationship{
+    padding-left: 100px;
+    margin-top: -80px;
+}
+
+.relationship img{
+    float: right;
+    height: 500px;
+    padding: 100px 100px 60px 30px;
 }
 
