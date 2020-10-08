@@ -81,6 +81,7 @@ h2 {
 .relationship{
     padding-left: 100px;
     margin-top: -80px;
+    height: 650px;
 }
 
 .relationship img{
@@ -89,3 +90,10 @@ h2 {
     padding: 100px 100px 60px 30px;
 }
 
+footer{
+    height: 60px;
+    text-align: center;
+    background-color: gray;
+    font-weight: bold;
+    padding-top: 25px;
+}
